@@ -1,0 +1,13 @@
+C:\Users\USER\source\repos\NobodyCare\bin\Debug\netcoreapp3.1\NobodyCare.exe
+C:\Users\USER\source\repos\NobodyCare\bin\Debug\netcoreapp3.1\NobodyCare.deps.json
+C:\Users\USER\source\repos\NobodyCare\bin\Debug\netcoreapp3.1\NobodyCare.runtimeconfig.json
+C:\Users\USER\source\repos\NobodyCare\bin\Debug\netcoreapp3.1\NobodyCare.runtimeconfig.dev.json
+C:\Users\USER\source\repos\NobodyCare\bin\Debug\netcoreapp3.1\NobodyCare.dll
+C:\Users\USER\source\repos\NobodyCare\bin\Debug\netcoreapp3.1\NobodyCare.pdb
+C:\Users\USER\source\repos\NobodyCare\obj\Debug\netcoreapp3.1\NobodyCare.csprojAssemblyReference.cache
+C:\Users\USER\source\repos\NobodyCare\obj\Debug\netcoreapp3.1\NobodyCare.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\NobodyCare\obj\Debug\netcoreapp3.1\NobodyCare.AssemblyInfo.cs
+C:\Users\USER\source\repos\NobodyCare\obj\Debug\netcoreapp3.1\NobodyCare.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\NobodyCare\obj\Debug\netcoreapp3.1\NobodyCare.dll
+C:\Users\USER\source\repos\NobodyCare\obj\Debug\netcoreapp3.1\NobodyCare.pdb
+C:\Users\USER\source\repos\NobodyCare\obj\Debug\netcoreapp3.1\NobodyCare.genruntimeconfig.cache

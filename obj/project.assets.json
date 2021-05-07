@@ -14,9 +14,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\USER\\source\\repos\\NobodyCare\\NobodyCare.csproj",
-      "projectName": "NobodyCare",
-      "projectPath": "C:\\Users\\USER\\source\\repos\\NobodyCare\\NobodyCare.csproj",
+      "projectUniqueName": "C:\\Users\\USER\\source\\repos\\NobodyCare\\Mastermind.csproj",
+      "projectName": "Mastermind",
+      "projectPath": "C:\\Users\\USER\\source\\repos\\NobodyCare\\Mastermind.csproj",
       "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\USER\\source\\repos\\NobodyCare\\obj\\",
       "projectStyle": "PackageReference",

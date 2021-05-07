@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace NobodyCare
+namespace Mastermind
 {
     public class Movement : IEquatable<Movement>
     {

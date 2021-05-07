@@ -1,0 +1,13 @@
+C:\Users\USER\source\repos\NobodyCare\bin\Debug\netcoreapp3.1\Mastermind.exe
+C:\Users\USER\source\repos\NobodyCare\bin\Debug\netcoreapp3.1\Mastermind.deps.json
+C:\Users\USER\source\repos\NobodyCare\bin\Debug\netcoreapp3.1\Mastermind.runtimeconfig.json
+C:\Users\USER\source\repos\NobodyCare\bin\Debug\netcoreapp3.1\Mastermind.runtimeconfig.dev.json
+C:\Users\USER\source\repos\NobodyCare\bin\Debug\netcoreapp3.1\Mastermind.dll
+C:\Users\USER\source\repos\NobodyCare\bin\Debug\netcoreapp3.1\Mastermind.pdb
+C:\Users\USER\source\repos\NobodyCare\obj\Debug\netcoreapp3.1\Mastermind.csprojAssemblyReference.cache
+C:\Users\USER\source\repos\NobodyCare\obj\Debug\netcoreapp3.1\Mastermind.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\NobodyCare\obj\Debug\netcoreapp3.1\Mastermind.AssemblyInfo.cs
+C:\Users\USER\source\repos\NobodyCare\obj\Debug\netcoreapp3.1\Mastermind.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\NobodyCare\obj\Debug\netcoreapp3.1\Mastermind.dll
+C:\Users\USER\source\repos\NobodyCare\obj\Debug\netcoreapp3.1\Mastermind.pdb
+C:\Users\USER\source\repos\NobodyCare\obj\Debug\netcoreapp3.1\Mastermind.genruntimeconfig.cache

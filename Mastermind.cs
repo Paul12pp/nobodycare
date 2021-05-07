@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 
-namespace NobodyCare
+namespace Mastermind
 {
 
     public class Mastermind
@@ -15,15 +15,14 @@ namespace NobodyCare
         public Mastermind(List<CodePeg> code)
         {
             this.code = code;
-            movements = code.Select((color, order) => new Movement { Order = order, Color = color }).ToHashSet();
-            pegs = code.ToHashSet();
         }
 
         public List<ResultPeg> GetHints(List<CodePeg> guess)
         {
             var whites = new List<ResultPeg>();
             var blacks = new List<ResultPeg>();
-
+            movements = code.Select((color, order) => new Movement { Order = order, Color = color }).ToHashSet();
+            pegs = code.ToHashSet();
             for (int i = 0; i < guess.Count; i++)
             {
                 var color = guess[i];

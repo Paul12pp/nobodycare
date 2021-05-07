@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Mastermind
+namespace Mastermind.Resources
 {
     public class Movement : IEquatable<Movement>
     {
